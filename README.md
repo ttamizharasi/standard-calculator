@@ -169,4 +169,4 @@ for (item of buttons) {
 
 
 ## Result:
-
+The program for designing simple calculator using Javascript is executed successfully.
